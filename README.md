@@ -22,7 +22,7 @@ Semmelrock, V.; Friedrich, G. (2025).
 
 #### Instance Generator
 
-The generator `hcp/instance-generator/HCP_instanceGeneration.lp` produces valid HCP instances via 
+The generator `hcp/HCP_instanceGeneration.lp` produces valid HCP instances via 
 `gringo HCP_instanceGeneration.lp  
 --const numberOfPersons=5  
 --const numberOfThingsPerPerson=10  
